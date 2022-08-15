@@ -9,4 +9,4 @@ ___
 
 Запуск продакшн сборки `npm run build`
 
-Для того чтобы посмотреть рабочий вариант [Кликаем по ссылке](https://martemn.github.io/employees-list)
+Для того чтобы посмотреть рабочий вариант [Кликаем по ссылке](https://martemn.github.io/marvel-class)
